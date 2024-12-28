@@ -1,8 +1,14 @@
 ## Hi there 👋
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/bso112"/>
+  <img
+    src="https://render.gitanimals.org/lines/bso112?pet-id=660729494071993004"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 <!--
 **bso112/bso112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
