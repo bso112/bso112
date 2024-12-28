@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/bso112?pet-id=660727870092013441" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/bso112?pet-id=660727870092013441" width="1000" height="200"/>
 </a>
 
 <!--
